@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif ;
+    background-color: rgb(221, 201, 176);
+}
+.main-heading{
+    border-bottom: 2px solid black;
+}
